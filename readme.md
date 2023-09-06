@@ -9,13 +9,6 @@
 
 ### 1. Introduction
 
-
-<span style="color:red"> *!Read the readme!* </span>
-
-*This project is intended to showcase the implementation and use of the two algorithms (KS, pYIN). Some basic terms are skipped and learning materials will be provided at the end.*
-
-### Motive
-
 Every beginner musician experience trouble when trying learn some music theory. There are a lot of notes, keys, chords, scales and modes that at first glance looks like a really difficult memory task. 
 
 It would be really helpful for a student (or a bedroom musician) to have some simple tools for defining in what key is the song that he/she wants to learn and can't find the information on the internet. It will be even more helpful to know which notes are being played.
