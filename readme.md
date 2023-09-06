@@ -1,16 +1,4 @@
-                           ____         ___
-                         ,' __ ``.._..''   `.
-                         `.`. ``-.___..-.    :
- ,---..____________________>/          _,'_  |
- `-:._,:_|_|_|_|_|_|_|_|_|_|_|.:SSt:.:|-|(/  |
-                        _.' )   ____  '-'    ;
-                       (    `-''  __``-'    /
-                        ``-....-''  ``-..-''
-
-
-Here I describe how the data for the project has been gathered. I also describe how and where to download the data, also how everything *should* look in the end :)
-
-(It's important for me that my research can be tested and reproduced so this file may be too descriptive)
+Here I describe how the data for the project has been gathered. I also describe how and where to download the data, also how everything *should* look in the end 
 
 =-------------------------------------------------------------------------------------------------------------------------------------------=
 
@@ -49,9 +37,5 @@ When everything is downloaded you should have the following directory structure:
 ./Project_PDA/outputs
 ./Project_PDA/test_results
 ./Project_PDA/readme.md
-
-There is another file `ts` that records my (failed) attempt to implement a NN for classification. I am adding it since you mentioned we can add drafts.
-
-It is not essential and can be ignored.
 
 =-------------------------------------------------------------------------------------------------------------------------------------------=
