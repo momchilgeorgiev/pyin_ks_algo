@@ -25,7 +25,7 @@ My task is to put together a working prototype for a "music helper" app. Its job
 
 Here I describe how the data for the project has been gathered. I also describe how and where to download the data, also how everything *should* look in the end 
 
-=-------------------------------------------------------------------------------------------------------------------------------------------=
+***
 
 For this project I have went with Music net: 
 https://www.kaggle.com/datasets/imsparsh/musicnet-dataset?select=musicnet_metadata.csv
@@ -73,4 +73,4 @@ When everything is downloaded you should have the following directory structure:
 
 ./Project_PDA/readme.md
 
-=-------------------------------------------------------------------------------------------------------------------------------------------=
+***
